@@ -1,1 +1,3 @@
 # Java-FX-Calculator
+
+This program uses Java FX to create a simple calculator. The calculator will perform basic operation such as, addition, subtraction, multiplication and division using buttons. The calculator will make sure that the user is notified of a divide by zero error, and will not allow non-numeric values to be entered to the calculator, and will not allow a crash due to this either. The program also has a clear button that will clear the input fields and reset the result label to 0. Overall, the program makes use of two text fields for the input values, five buttons for the four operations and the clear option, and a result label that will display the result.
